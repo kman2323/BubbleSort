@@ -1,6 +1,8 @@
 #include<iostream>
 #include<vector>
 
+// space complexity O(1)
+// time complexity O(n^2)
 using namespace std;
 void swap(int &a, int &b)
  { 
